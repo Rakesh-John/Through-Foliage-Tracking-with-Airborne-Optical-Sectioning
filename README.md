@@ -10,8 +10,9 @@ Detecting and tracking moving targets through foliage is difficult, and for many
 
 ## Data
 
-The  `repository` contains 20 sets of data (`SET1` to `SET20`). 
-Each set contain 10 undistorted (using OpenCV pinhole camera model) single images that was captured using the 1D drone-operated camera array and the corresponding integral image generated with AOS  for the center perspective. The single images (`C0` to `C9`) represent the order of the cameras from left outermost section to the right outermost section attached equidistant (1m) to each other on a 9m long 1D camera array.
+The  folder `Data` contains 20 sets of data (`SET1` to `SET20`). 
+Each set contain 10 undistorted (using OpenCV pinhole camera model) single images that was captured using the 1D drone-operated camera array and the corresponding integral image generated with AOS  for the center perspective. The single images (`C0` to `C9`) represent the order of the cameras from left outermost section to the right outermost section attached equidistant (1m) to each other on a 9m long 1D camera array. 
+The folder `Supplementary videos` contains the supplementary data related to the article.
 
 Further details can be found in the main article and supplementary material of our publication: [Journal of Remote Sensing](https://spj.science.org/doi/10.34133/2022/9812765).
 
