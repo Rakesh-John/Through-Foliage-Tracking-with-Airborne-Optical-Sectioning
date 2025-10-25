@@ -18,6 +18,8 @@ Further details can be found in the main article and supplementary material of o
 
 ## Citation
 
+
+```bibtex
 @article{nathan2022through,
   title={Through-foliage tracking with airborne optical sectioning},
   author={Nathan, Rakesh John Amala Arokia and Kurmi, Indrajit and Schedl, David C and Bimber, Oliver},
@@ -25,5 +27,4 @@ Further details can be found in the main article and supplementary material of o
   year={2022},
   publisher={AAAS}
 }
-
 
