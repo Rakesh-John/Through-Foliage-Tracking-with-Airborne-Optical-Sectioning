@@ -16,4 +16,14 @@ The folder `Supplementary videos` contains the supplementary data related to the
 
 Further details can be found in the main article and supplementary material of our publication: [Journal of Remote Sensing](https://spj.science.org/doi/10.34133/2022/9812765).
 
+## Citation
+
+@article{nathan2022through,
+  title={Through-foliage tracking with airborne optical sectioning},
+  author={Nathan, Rakesh John Amala Arokia and Kurmi, Indrajit and Schedl, David C and Bimber, Oliver},
+  journal={Journal of Remote Sensing},
+  year={2022},
+  publisher={AAAS}
+}
+
 
