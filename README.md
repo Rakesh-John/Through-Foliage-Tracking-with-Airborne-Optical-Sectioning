@@ -1,8 +1,8 @@
-Data: Through-Foliage Tracking with Airborne Optical Sectioning.
+Data: Through-Foliage Tracking with Airborne Optical Sectioning
 ====================================================================
 
 **Abstract:**
-Detecting and tracking moving targets through foliage is difficult, and for many cases even impossible in regular aerial images and videos. We present an initial light-weight and drone-operated 1D camera array that supports parallel synthetic aperture aerial imaging. Our main finding is that color anomaly detection benefits significantly from image integration when compared to conventional single images or video frames (on average 97\% vs. 42\% in precision in our field experiments). We demonstrate, that these two contributions can lead to the detection and tracking of moving people through densely occluding forest
+Detecting and tracking moving targets through foliage is difficult, and for many cases even impossible in regular aerial images and videos. We present an initial light-weight and drone-operated 1D camera array that supports parallel synthetic aperture aerial imaging. Our main finding is that color anomaly detection benefits significantly from image integration when compared to conventional single images or video frames (on average 97\% vs. 42\% in precision in our field experiments). We demonstrate, that these two contributions can lead to the detection and tracking of moving people through densely occluding forest.
 
 **Authors:** **Rakesh John Amala Arokia Nathan**, Indrajit Kurmi, David C. Schedl,  Oliver Bimber
 
